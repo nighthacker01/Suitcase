@@ -1,0 +1,6 @@
+{
+  "name": "Suitcase Engineering Lab",
+  "description": "Interactive visualizer for suitcase handle and wheel stress analysis under 20kg load.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
